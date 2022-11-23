@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "nome": "Michele",
+      "sobrenome": "Vieira",
+      "sexo": "feminino",
+      "telefone": 21987546798,
+      "cargo": "manicure",
+      "id": "1"
+    },
+    {
+      "nome": "Valeria",
+      "sobrenome": "Tardivo",
+      "sexo": "feminino",
+      "telefone": 21998645864,
+      "cargo": "caixa",
+      "id": "2"
+    },
+    {
+      "nome": "Esther",
+      "sobrenome": "Alves",
+      "sexo": "feminino",
+      "telefone": 21964852348,
+      "cargo": "cabelereira",
+      "id": "3"
+    },
+    {
+      "nome": "Luisa",
+      "sobrenome": "Campos",
+      "sexo": "feminino",
+      "telefone": 21967542314,
+      "cargos": "designer de sobrancelhas",
+      "id": "4"
+    }
+  ],
+  [
+    {
+      "nome": "kit progressiva perfect liss",
+      "marca": "visat hair",
+      "valor": "314,99",
+      "disponivel": true,
+      "quantidade": "1kg",
+      "id": 1,
+      "imagem": "https://produto.mercadolivre.com.br/MLB-1213243158-escova-progressiva-perfect-liss-visat-hair-_JM?matt_tool=97555935&matt_word=&matt_source=google&matt_campaign_id=14302215723&matt_ad_group_id=125382899185&matt_match_type=&matt_network=g&matt_device=c&matt_creative=539491050164&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=224434437&matt_product_id=MLB1213243158&matt_product_partition_id=1403439362790&matt_target_id=pla-1403439362790&gclid=EAIaIQobChMIm-P5p_nC-wIV-kFIAB18xQ-dEAQYAiABEgLMOPD_BwE"
+    },
+    {
+      "nome": "henna castanho escuro",
+      "marca": "glance",
+      "valor": "48,40",
+      "disponível": true,
+      "quantidade": "3,5g",
+      "id": 2,
+      "imagem": "https://www.megabelezaprofissional.com.br/cilios-e-sobrancelhas/henna-glance-para-sobrancelha-castanho-escuro-3-5g"
+    },
+    {
+      "nome": "esmalte boneca",
+      "marca": "colorama",
+      "valor": "4,90",
+      "disponivel": true,
+      "quantidade": "5ml",
+      "id": 3,
+      "imagem": "https://www.maisvaidosa.com.br/esmalte-colorama-9817-p1009306"
+    },
+    {
+      "nome": "botox força super",
+      "marca": "probelle",
+      "valor": "39,95",
+      "disponivel": true,
+      "quantidade": "150g",
+      "id": 4,
+      "imagem": "https://www.paccosmeticos.com.br/btox-probelle-forca-super-redutor-alinhador-sem-formol-150g"
+    }
+  ],
+  [
+    {
+      "dia_da_semana": "segunda-feira",
+      "horarios": "13h e 15h",
+      "servico": "Designer c/ henna",
+      "quantidade_de_vagas": 2,
+      "id": "5"
+    },
+    {
+      "dia_da_semana": "quarta-feira",
+      "horarios": "14h e 16h",
+      "servico": "Unha",
+      "quantidade_de_vagas": 2,
+      "id": "6"
+    },
+    {
+      "dia_da_semana": "sexta-feira",
+      "horarios": "17h e 19h",
+      "servico": "unha e cabelo",
+      "quantidade_de_vagas": 4,
+      "id": "7"
+    },
+    {
+      "dia_da_semana": "sábado",
+      "horarios": "10h e 12h",
+      "servico": "cabelo",
+      "quantidade_de_vagas": 2,
+      "id": "8"
+    }
+  ]
+]

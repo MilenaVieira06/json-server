@@ -1,0 +1,24 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilenaVieira06/json-server-milena.git"
+  },
+  "author": "MilenaVieira06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilenaVieira06/json-server-milena.git/issues"
+  },
+  "homepage": "https://github.com/MilenaVieira06/json-server-milena.git#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuidv4": "^6.2.13"
+  }
+}
